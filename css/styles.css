@@ -1,0 +1,67 @@
+.contain {
+	background-color: #e0e1e2;
+	width: 100%;
+	height: 400px;
+}
+
+.contain h1 {
+	margin: 0px;
+	padding: 15px 0px;
+	color: #fff;
+	background-color: #3641db;
+}
+
+.contain2 {
+	background-color: #fff;
+	width: 100%;
+	height: 400px;
+}
+
+.contain2 h1 {
+	margin: 0px;
+	padding: 15px 0px;
+	color: #fff;
+	background-color: #3641db;
+}
+
+.string {
+	color: #3641db;
+	font-size: 1.5em;
+	padding-top: 2em;
+}
+
+.number {
+	color: #3641db;
+	font-size: 1.5em;
+	padding-top: 2em;
+}
+
+.result {
+	color: #f4a742;
+	font-size: 1.5em;
+	padding-top: 2em;
+}
+
+
+
+.changeTextButton, .changeTextButton2 {
+	font-size: 20px;
+	font-weight: bold;
+	background-color: #3641db;
+	border: solid 2px #3641db;
+	color: #fff;
+	width: 200px;
+	padding: 20px 10px;
+	display: block;
+	margin: 0px auto;
+
+	margin-top: 2em;
+
+	transition: .75s;
+}
+
+.changeTextButton:hover {
+	background-color: #fff;
+	color: #3641db;
+	cursor: pointer;
+}
